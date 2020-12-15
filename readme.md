@@ -22,11 +22,11 @@ Abhishek Kumar, Guohua Wu, Mostafa Ali, Qizhang Luo, Rammohan Mallipeddi, Ponnut
 
  
 
-- When submitting papers at (https://ieee-cis.org/conferences/cec2021/upload.php TBC), please make sure that you select “SXX. Special Session associated with CEC Competitions CX and CY” as the "Main Research Topic" for all papers making use of these benchmarks. 
+- When submitting papers at (https://ieee-cis.org/conferences/cec2021/upload.php TBC), please make sure that you select ****“SXX. Special Session associated with CEC Competitions CX and CY”*** as the ***"Main Research Topic"*** for all papers making use of these benchmarks. 
 
  
 
-- We will follow the extended deadlines as determined by CEC 2021. If you require extra time, you can email us ( epnsugan@ntu.edu.sg  ).
+- We will follow the extended deadlines as determined by CEC 2021. If you require extra time, you can email us (epnsugan@ntu.edu.sg).
 
  
 
@@ -50,6 +50,6 @@ Abhishek Kumar, Guohua Wu, Mostafa Ali, Qizhang Luo, Rammohan Mallipeddi, Ponnut
 
  
 
-Request for Feedback
+#### Request for Feedback
 
-If you have suggestions to improve the technical report or if you find any potential bug in the codes, please inform us ( epnsugan@ntu.edu.sg  ).
+If you have suggestions to improve the technical report or if you find any potential bug in the codes, please inform us (epnsugan@ntu.edu.sg).
